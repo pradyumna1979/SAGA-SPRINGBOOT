@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>ORDER-SERVICE</module>
+        <module>USER-SERVICE</module>
         <module>PAYMENT-SERVICE</module>
         <module>SHIPMENT-SERVICE</module>
         <module>NOTIFICATION-SERVICE</module>

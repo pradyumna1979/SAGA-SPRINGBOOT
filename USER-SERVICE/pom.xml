@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.saga</groupId>
-	<artifactId>ORDER-SERVICE</artifactId>
+	<artifactId>USER-SERVICE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ORDER-SERVICE</name>
 	<description>Saga Orchestration pattern with Spring boot</description>
