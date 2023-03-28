@@ -13,6 +13,7 @@
         <module>SHIPMENT-SERVICE</module>
         <module>NOTIFICATION-SERVICE</module>
         <module>CONFIG-SERVER</module>
+        <module>ORDER-SERVICE</module>
         <module>SERVICE-REGISTRY</module>
         <module>COMMON-SERVICE</module>
     </modules>

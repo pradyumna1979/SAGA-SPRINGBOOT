@@ -2,4 +2,4 @@ server:
   port: 9091
 spring:
   application:
-    name: ORDER-SERVICE
+    name: user-service

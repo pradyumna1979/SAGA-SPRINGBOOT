@@ -2,4 +2,8 @@ server:
   port: 9094
 spring:
   application:
-    name: NOTIFICATION-SERVICE
+    name: notification-service
+  profile:
+    active: default
+
+

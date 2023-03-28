@@ -2,4 +2,4 @@ server:
   port: 9093
 spring:
   application:
-    name: SHIPMENT-SERVICE
+    name: shipment-service
